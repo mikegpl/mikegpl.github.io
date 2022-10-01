@@ -8,7 +8,7 @@ redirect_from:
 
 Hornbeam is a result of collaboration between modern software engineering and empirical sciences. 
 
-The idea behind is Hornbeam is to apply commercially adopted solutions to the world of small and medium-scale research 
+The idea behind Hornbeam is to apply commercially adopted solutions to the world of small and medium-scale research 
 to empower the scientists to do the actual science more effortlessly. 
 
 The projects we are currently working on:
@@ -19,5 +19,6 @@ The projects we are currently working on:
 
 Check out the list of scientific teams we recently cooperated with:
 
-- [Erpinator Lab](https://www.facebook.com/ERPinatorLab) - neuroscience research group based in Kraków, Poland.
+- [Erpinator Lab](https://www.facebook.com/ERPinatorLab) - neuroscience research group based in Kraków, Poland. Used [Introspector](/introspector/) for providing
+feedback to the participants.
 
