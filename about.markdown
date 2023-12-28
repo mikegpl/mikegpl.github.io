@@ -13,9 +13,9 @@ to empower the scientists to do the actual science more effortlessly.
 
 The projects we are currently working on:
 
-- [Introspector](/introspector/) - tool for providing automated feedback for participants who fill out questionnnaires.
-- [Faust](/faust/) - system for secure and fast management of data in managing research projects involving personal data.
-
+- [Introspector](/introspector/) - provide automated feedback for participants who fill out questionnnaires and assign them to time slots.
+- [Faust](/faust/) - manage participant data in studies where personal data is involved.
+ 
 
 Check out the list of scientific teams we recently cooperated with:
 

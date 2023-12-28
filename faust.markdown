@@ -12,7 +12,7 @@ also export the collected data in a data-science-friendly way, `Faust` might be 
 - alerting the researchers about participants who are enrolled but haven't completed the questionnaires yet,
 - verifying whether a participant's answers are reliable and not fraudulent.
 
-`Faust` and its storage is hosted on our EU servers. Pay only for doing the science - 1$ per your study unique participant and 10$ per month for researcher access.
+`Faust` and its storage is hosted on our EU servers. Pay only for doing the science - pricing is based on number of participants and researchers. 
 
 For example, a study consisting of 200 participants and 3 researchers that spans across 3 months would cost you:
-`200$ + 3 * 10$ = 230$`. Save your researchers time and try out Faust for free.
+`200 * 0.1$ + 3 * 10$ = 50$`. Save your researchers time and try out Faust for free - contact us via [contact form here](https://forms.gle/qsjpga2bFhXGd5Bk8)
